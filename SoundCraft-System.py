@@ -133,7 +133,7 @@ class show_all():
             instrument.display_info()
 
 # Example usage
-g1 = Guitar("Guitar", 1000, "Yamaha", 6)
+g1 = Guitar("Guitar", 1000, "fender", 6)
 p1 = Piano("Piano", 5000, "Casio", 88)
 d1 = Drums("Drums", 2000, "Pearl", 5)
 v1 = Violin("Violin", 1500, "Stradivarius", 4)
