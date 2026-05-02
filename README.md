@@ -48,7 +48,7 @@ Each instrument implements `play()` differently:
 ```python
 inst.play()
 
-4. Class Variables
+### 4. Class Variables
 
 Tracks total number of instruments:
 
